@@ -10,7 +10,7 @@ When you open the website for the first time you will see the login page.
 Since you dont have any account setup yet you will have to click on the 'register' link at the bottom.
   
   
-![screenshot2](register.JPG)
+![screenshot2](registration.JPG)
   
 After you register, you will be directed to the main task page which lists all the active and completed tasks. Your list will be empty but the purpose of demonstration I have already populated my list.
   
