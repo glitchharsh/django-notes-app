@@ -27,7 +27,7 @@ Now when you return to the main task page you will find you new task has been ad
   
 ![screenshot5](taskupdated.JPG)
 
-As I have demonstrated above you can add a new task. When you click on the task you will be shown the add page again but this time you can update the task. If the task has been completed you can tick the 'completed' checkbox. Completed tasks will be greyed, slanted and stricken off. Now just beside the name of the tas on the main task page is a red 'x' symbol. If you click this symbol, the task entry will be completed deleted after you are asked for a confirmation.
+As I have demonstrated above you can add a new task. When you click on the task you will be shown the add page again but this time you can update the task. If the task has been completed you can tick the 'completed' checkbox. Completed tasks will be greyed, slanted and stricken off. Now just beside the name of the task on the main task page is a red 'x' symbol. If you click this symbol, the task entry will be completely deleted after you are asked for a confirmation.
   
 Thus you perform all the CRUD (Create Read Update Delete) operations in the project.
   
