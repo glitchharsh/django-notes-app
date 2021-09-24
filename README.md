@@ -20,7 +20,7 @@ After you register, you will be directed to the main task page which lists all t
 To add a new task you will have to click on the 'Add Task' button which is located at the top right below your username.
   
   
-![screenshot4][enteringtask.JPG]
+![screenshot4](enteringtask.JPG)
   
 Now when you return to the main task page you will find you new task has been added.
   
